@@ -41,7 +41,7 @@ For installation, I modified the original Faster-RCNN [README.md](https://github
 1. Clone the Faster R-CNN repository
     ```Shell
     # Make sure to clone with --recursive
-    git clone --recursive https://github.com/sridhar/tsr-py-faster-rcnn.git
+    git clone --recursive https://github.com/sridhar912/tsr-py-faster-rcnn.git
     ```
 
 2. We'll call the directory that you cloned Faster R-CNN into `FRCN_ROOT`
