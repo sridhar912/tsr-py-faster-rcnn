@@ -84,11 +84,11 @@ To run the demo
 cd $FRCN_ROOT
 ./tools/demo.py
 ```
-The demo performs detection using a ZF network trained for detection on GTSDB. Few sample images from [test data set](http://benchmark.ini.rub.de/Dataset_GTSDB/TestIJCNN2013.zip) has been placed under folder
+The demo performs detection using a ZF network trained for detection on GTSDB. Few sample images from [test dataset](http://benchmark.ini.rub.de/Dataset_GTSDB/TestIJCNN2013.zip) has been placed under folder
 ```Shell
 cd $FRCN_ROOT/data/demo
 ```
-For testing the complete test dataset, [test dataset](http://benchmark.ini.rub.de/Dataset_GTSDB/TestIJCNN2013.zip) has to be download and placed in the folder mentioned above
+For the complete testing, [test dataset](http://benchmark.ini.rub.de/Dataset_GTSDB/TestIJCNN2013.zip) has to be download and placed in the folder mentioned above
 
 ### Beyond the demo: installation for training and testing models
 
